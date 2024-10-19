@@ -12,7 +12,8 @@ An expense tracker application built with C++ that uses CSV files fto store data
 - No additional libraries required.
 
 ## Running the Application
-1. Download the `expense_tracker.exe` file from the repository.
+1. Download the `ExpenseTracker` folder.
+2. RUn the `expenseTracker.exe` file.
 3. Follow the on-screen prompts to manage your expenses.
 
 ## File Structure
