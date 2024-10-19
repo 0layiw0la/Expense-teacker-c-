@@ -22,5 +22,3 @@ An expense tracker application built with C++ that uses CSV files fto store data
 - `expenses.csv`: Stores expense records (created automatically)
 
 
-## License
-This project is licensed under the MIT License.
